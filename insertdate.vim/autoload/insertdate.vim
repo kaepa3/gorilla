@@ -7,4 +7,3 @@ function! insertdate#execute() abort
     call setpos('.', pos)
 
 endfunction
-

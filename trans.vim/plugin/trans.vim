@@ -1,6 +1,6 @@
 scriptencoding utf-8
 
-if exists('gg:loaded_translate')
+if exists('g:loaded_translate')
     finish
 endif
 
